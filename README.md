@@ -15,4 +15,4 @@ The solution for each iteration until convergence is carried out as follows:
 (https://en.wikipedia.org/wiki/Biconjugate_gradient_stabilized_method)
 * Finaly the axial velocity and new vorticity is calculated from continuity
 
-The quivers.m code used to graph the velocity plot is a slighty modified [code] (google.com) from the MathWorks' file exchange site.
+The quivers.m code used to graph the velocity plot is a slighty modified [code] (http://www.mathworks.com/matlabcentral/fileexchange/24482-quivers/content/quivers.m) from the MathWorks' file exchange site.
